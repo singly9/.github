@@ -1,6 +1,6 @@
 ## Hey, this is us Singly👋
 
-![An illustration showing a variety of characters from a television cartoon.](HOME.png)
+![Rick and Morty](https://github.com/singly9/.github/blob/main/profile/HOME.png?raw=true)
 
 Any projects and fun of the people working in this organization🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
