@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hey, this is us Singly👋
+
+![An illustration showing a variety of characters from a television cartoon.](HOME.png)
+
+Any projects and fun of the people working in this organization🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+
+### 🍿 An interconnected community
+
+This community is at the 💗 of Singly and fundamental to the way we build software today. 
 
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Made with 🖤
+🙇‍♂️🎤⬇️
 -->
